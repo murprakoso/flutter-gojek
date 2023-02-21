@@ -7,7 +7,7 @@ Color green2 = const Color(0xFF00880F);
 Color dark1 = const Color(0xFF1C1C1C);
 Color dark2 = const Color(0xFF4A4A4A);
 Color dark3 = const Color(0xFF999798);
-Color dark4 = const Color(0xFF999798);
+Color dark4 = const Color(0xFFEDEDED);
 
 Color blue1 = const Color(0xFF0281A0);
 Color blue2 = const Color(0xFF00AED5);
